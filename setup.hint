@@ -1,4 +1,0 @@
-category: X11
-requires: libX11_6 libXss1 libXt6
-sdesc: "X.Org BeforeLight screensaver"
-ldesc: "X.Org BeforeLight screensaver"

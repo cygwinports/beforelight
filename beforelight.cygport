@@ -1,0 +1,9 @@
+inherit xorg
+
+NAME="beforelight"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X sample screensaver"
+DESCRIPTION="The beforelight program is a sample implementation of a screen
+saver for X servers supporting the MIT-SCREEN-SAVER extension."
